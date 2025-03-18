@@ -1,2 +1,2 @@
 # Create a symlink for easy access as /dev/imu
-KERNEL=="ttyUSB*", ATTRS{idVendor}=="10c4", ATTRS{idProduct}=="ea60", ATTRS{serial}=="0251S2Q5", MODE:="0777", SYMLINK+="sensors/imu"
+KERNEL=="ttyUSB*", ATTRS{idVendor}=="10c4", ATTRS{idProduct}=="ea60", ATTRS{serial}=="02L4UDKM", MODE:="0777", SYMLINK+="sensors/imu"
